@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=cobra()
+comment0.text=\r\n\ creates\ a\ cobra\ with\ a\ default\ color\ of\ yellow\r\n
+comment1.params=scale_color
+comment1.target=cobra(java.lang.String)
+comment1.text=\r\n\ creates\ a\ cobra\ with\ the\ given\ color\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\r\n\ Returns\ this\ cobra's\ color\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ returns\ a\ string\ representation\ of\ the\ cobra\r\n
+numComments=4

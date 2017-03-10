@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=mammal()
+comment0.text=\r\n\ creates\ a\ mammal\ with\ default\ hair\ length\r\n
+comment1.params=hair_length
+comment1.target=mammal(int)
+comment1.text=\r\n\ creates\ a\ mammal\ with\ the\ specified\ hair\ length\r\n
+comment2.params=
+comment2.target=int\ getLength()
+comment2.text=\r\n\ returns\ the\ mammal's\ hair\ length\r\n
+comment3.params=
+comment3.target=java.lang.String\ move()
+comment3.text=\r\n\ returns\ how\ the\ mammal\ moves\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ returns\ a\ string\ representation\ of\ the\ mammal\r\n
+numComments=5

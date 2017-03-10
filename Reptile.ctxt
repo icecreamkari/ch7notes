@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Reptile()
+comment0.text=\r\n\ Creates\ a\ reptile\ with\ no\ legs\r\n
+comment1.params=numberLegs
+comment1.target=Reptile(int)
+comment1.text=\r\n\ Creates\ a\ reptile\ with\ the\ given\ number\ of\ legs\r\n
+comment2.params=
+comment2.target=int\ getLegs()
+comment2.text=\r\n\ Returns\ this\ Reptile's\ number\ of\ Legs\r\n
+comment3.params=
+comment3.target=java.lang.String\ move()
+comment3.text=\r\n\ returns\ how\ this\ reptile\ moves\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ string\ representation\ of\ reptile\r\n
+numComments=5

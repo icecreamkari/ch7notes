@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=snake()
+comment0.text=\r\n\ creates\ a\ length\ with\ default\ length\ of\ 10\r\n
+comment1.params=length_of_snake
+comment1.target=snake(int)
+comment1.text=\r\n\ creates\ a\ snake\ with\ the\ given\ length\r\n
+comment2.params=
+comment2.target=int\ getLength()
+comment2.text=\r\n\ Return's\ this\ snake's\ length\r\n
+comment3.params=
+comment3.target=java.lang.String\ move()
+comment3.text=\r\n\ returns\ how\ this\ reptile\ moves\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ returns\ a\ string\ represntation\ of\ the\ snake\r\n
+numComments=5

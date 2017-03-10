@@ -4,15 +4,16 @@
 //  Represents an Animal.
 //********************************************************************
 
-public class Animal
+public abstract class Animal
 {
    private String type;
 
-	public Animal()
-	{//this is called by default
-		type = "Default";
-		System.out.println("hello from Animal Default"  );
-	}
+   public Animal()
+   {//this is called by default
+        type = "Default";
+        System.out.println("hello from Animal Default"  );
+   }
+   
    /**-----------------------------------------------------------------
    *  Creates a Animal with the given type.
    */
@@ -30,6 +31,12 @@ public class Animal
       return type;
    }
 
+   /**
+    * should return a string indicating how this pet moves
+    * method does not have a body
+    */
+   abstract public String move();
+
    /**-----------------------------------------------------------------
    * Returns a string representation of this Animal.
    /*/
@@ -37,7 +44,6 @@ public class Animal
    {
       return "My type is " + type;
    }
-
 
 }
 
